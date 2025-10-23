@@ -57,7 +57,7 @@
     {
       "id": 2,
       "image": null,
-      "hour": 9,
+      "hour": 13,
       "minute": 0,
       "daysOfWeek": [1,2,3,4,5,6,7],
       "button": {
@@ -1053,3 +1053,4 @@
     }
   ]
 }
+
