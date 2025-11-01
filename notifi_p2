@@ -519,6 +519,67 @@
         "id": "📚 Perpustakaan dokumen Anda telah diperbarui!",
         "pt": "📚 Sua biblioteca de documentos foi atualizada!"
       }
+    },
+    {
+      "id": "screenshot",
+      "permissionGroup": "post_permission",
+      "image": false,
+      "button": {
+        "text": {
+          "ar": "📂",
+          "de": "📂",
+          "en": "📂",
+          "es": "📂",
+          "fr": "📂",
+          "hi": "📂",
+          "id": "📂",
+          "it": "📂",
+          "ja": "📂",
+          "km": "📂",
+          "ko": "📂",
+          "pt": "📂",
+          "ru": "📂",
+          "th": "📂",
+          "zh": "📂",
+          "vn": "📂"
+        }
+      },
+      "title": {
+        "ar": "تم حفظ لقطة الشاشة 📸",
+        "de": "Screenshot gespeichert 📸",
+        "en": "Screenshot saved 📸",
+        "es": "Captura de pantalla guardada 📸",
+        "fr": "Capture d'écran enregistrée 📸",
+        "hi": "स्क्रीनशॉट सहेजा गया 📸",
+        "id": "Tangkapan layar disimpan 📸",
+        "it": "Screenshot salvato 📸",
+        "ja": "スクリーンショットを保存しました 📸",
+        "km": "បានរក្សាទុករូបថតអេក្រង់ 📸",
+        "ko": "스크린샷이 저장되었습니다 📸",
+        "pt": "Captura de ecrã guardada 📸",
+        "ru": "Снимок экрана сохранён 📸",
+        "th": "บันทึกภาพหน้าจอแล้ว 📸",
+        "zh": "已保存截图 📸",
+        "vn": "Đã lưu ảnh chụp màn hình 📸"
+      },
+      "titleSub": {
+        "ar": "اضغط هنا لعرض لقطة الشاشة الخاصة بك 🖼️",
+        "de": "Tippe hier, um deinen Screenshot anzusehen 🖼️",
+        "en": "Tap here to view your screenshot 🖼️",
+        "es": "Toca aquí para ver tu captura de pantalla 🖼️",
+        "fr": "Touchez ici pour voir votre capture d'écran 🖼️",
+        "hi": "अपना स्क्रीनशॉट देखने के लिए यहाँ टैप करें 🖼️",
+        "id": "Ketuk di sini untuk melihat tangkapan layar Anda 🖼️",
+        "it": "Tocca qui per visualizzare il tuo screenshot 🖼️",
+        "ja": "ここをタップしてスクリーンショットを表示 🖼️",
+        "km": "ប៉ះទីនេះដើម្បីមើលរូបថតអេក្រង់របស់អ្នក 🖼️",
+        "ko": "여기를 눌러 스크린샷을 확인하세요 🖼️",
+        "pt": "Toque aqui para ver a sua captura de ecrã 🖼️",
+        "ru": "Нажмите здесь, чтобы посмотреть скриншот 🖼️",
+        "th": "แตะที่นี่เพื่อดูภาพหน้าจอของคุณ 🖼️",
+        "zh": "点击此处查看您的截图 🖼️",
+        "vn": "Chạm vào đây để xem ảnh chụp màn hình của bạn 🖼️"
+      }
     }
   ]
 }
